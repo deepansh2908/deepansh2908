@@ -1,7 +1,7 @@
-👋 Hi, I’m Deepansh Gupta | 🎓 IIT Patna'22 🎓 | 💻 Software Engineer 💻 | 🌐 Web Development Enthusiast 🌐 | 🧠 Problem Solver 🧠
+👋 Hi, I’m Deepansh Gupta | 🎓 IIT Patna'22 🎓 | 💻 Software Engineer 💻 |
 
 # About Me
-I am currently working as a Software Engineer for an Indian Startup. I have a strong foundation in computer science and am passionate about learning new technologies. My main areas of interest are web development, including frontend and backend technologies. I love tackling complex problems and finding elegant solutions.
+I am currently working as a Software Engineer for an Indian Startup. I have a strong foundation in computer science and am passionate about learning new technologies. My main areas of interest are web development, especially backend. I love tackling complex problems and finding elegant solutions.
 
 # Get in Touch
 I'm always open to collaborating on interesting projects, discussing technology, or just chatting about coding and problem-solving. Don't hesitate to reach out:
